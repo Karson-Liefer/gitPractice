@@ -1,3 +1,4 @@
 I learned how important git is and how beneficial it is to learn about it early on.
 I laerned about the difference between GitHub and Git and why they are both great tools to use.
 I learnd about markdown and how versatile and simple it is to use.
+I learned about different file extensions and how each one serves their own purpose.
