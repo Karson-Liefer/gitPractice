@@ -2,3 +2,4 @@ I am learning how to configure git with my identity, how to create a git reposit
 I am learning Git fundamentals.
 Git tracks every change I make.
 I can commit my work to save progress.
+I just pushed my first repo to GitHub!
