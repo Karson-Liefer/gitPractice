@@ -1,0 +1,3 @@
+I learned that git and github are two completly differnt things that are both insanley useful.
+I learned how helpful and time saving git is and a bunch of useful commands.
+I also learned how important github is for building a professional portfolio.
