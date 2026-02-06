@@ -1,0 +1,1 @@
+I am learning how to configure git with my identity, how to create a git repository and track changes. Also essential git commands, how to write commit messages and how to use diff and restore.
