@@ -1,0 +1,5 @@
+1. The package.json is the the file that lists everything your project needs to function. While the node_modules folder is where the actual code for those external libraries is.
+2. The ${} syntax acts as a placeholder that lets you switch from plain text too javaScript code. It is useful because it is less messy and you can put more than just variables inside the brackets.
+3. When I saved my code it did auto-format and I saw a couple errors that I was able to fix.
+4. I made 3 commits this assignment. The reason its better to make multiple smaller commits is because its easier for debugging and makes reviewing code easier. 
+5. We const for a lot of things, it tells anyone reading your code that the value will not be reassigned. We use let when you know that a values variable needs to changed later on. We use var to declare variables. 
